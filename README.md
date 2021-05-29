@@ -1,5 +1,5 @@
 # Autonomous elevator boarding robot by recognizing and pushing the button
-This is a Student Research Training Program (SRTP) to build an autonomous elevator boarding robot. The robot, whcih combines a laser, a 6-axis innfos robot arm, an EAI Dashgo D1 robot base and an Xtion Pro RGB-D camera, is able to autonomously navigate in an office building and takes the elevator to enter different floors. A demo is available [here](https://www.bilibili.com/video/BV1qo4y117FL#reply4635072683).
+This is a Student Research Training Program (SRTP) to build an autonomous elevator boarding robot. The robot, whcih combines a laser, a 6-axis innfos robot arm, an EAI Dashgo D1 robot base and an Xtion Pro RGB-D camera, is able to autonomously navigate in an office building and takes the elevator to enter different floors. A demo is available [here](https://www.bilibili.com/video/BV1qo4y117FL).
 
 ## About the robot arm
 1. The arm will get the button pose from the camera, plan a path to touch the button and execute it.
