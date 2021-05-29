@@ -1,5 +1,0 @@
-<launch>
-    <include file="$(find openni2_launch)/launch/openni2.launch" />
-    <rosparam command="load" file="$(find mydetector)/config/goaldetector_params.yaml" />
-    <node name="mydetector"  pkg="mydetector"  type="goaldetector" output="screen"/>
-</launch>
